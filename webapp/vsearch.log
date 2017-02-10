@@ -1,0 +1,3 @@
+ImmutableMultiDict([('phrase', 'crash'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux armv7l; rv:45.0) Gecko/20100101 Firefox/45.0|{'a'}
+ImmutableMultiDict([('phrase', 'crush'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux armv7l; rv:45.0) Gecko/20100101 Firefox/45.0|{'u'}
+ImmutableMultiDict([('phrase', 'creep'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux armv7l; rv:45.0) Gecko/20100101 Firefox/45.0|{'e'}
